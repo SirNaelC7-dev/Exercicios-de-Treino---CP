@@ -1,1 +1,1 @@
-# Exercicios-de-Treino---CP
+# ExerciciosdeTreino-CP
